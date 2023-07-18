@@ -1,0 +1,16 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    border:2px solid black;
+    background: rgb(83, 52, 194);
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center  ;
+}
